@@ -11,3 +11,13 @@
 
 <br/>
 
+# Project 4: Student Information System with Data Structures (Intermediate Project)
+
+## Project Description:
+- This is a Student Information System where student details are stored, and CRUD operations (Create, Read, Update, Delete) are performed using OOP (Object-Oriented Programming) and DSA (Data Structures) concepts. The data is stored in a custom LinkedList structure and performs searching using Binary Search Trees (BST) for efficient data retrieval.
+
+- This project demonstrates both OOP principles and DSA concepts, which can be added to your resume. The project features the following:
+
+- OOP Concepts: Classes, Objects, Inheritance, Encapsulation, Polymorphism, and Abstraction.
+- DSA Concepts: Linked List, Binary Search Tree (BST), Searching and Sorting.
+
